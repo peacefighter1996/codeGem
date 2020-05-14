@@ -1,37 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj": {}
+    "C:\\Users\\zvdsteege\\source\\repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj": {
+    "C:\\Users\\zvdsteege\\source\\repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj",
+        "projectUniqueName": "C:\\Users\\zvdsteege\\source\\repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj",
         "projectName": "Mechanoid.Parser.XML",
-        "projectPath": "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj",
-        "packagesPath": "C:\\Users\\Ian Arbouw\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\obj\\",
+        "projectPath": "C:\\Users\\zvdsteege\\source\\repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\Mechanoid.Parser.XML.csproj",
+        "packagesPath": "C:\\Users\\zvdsteege\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zvdsteege\\source\\repos\\codeGem\\Parser\\Mechanoid.Parser.XML\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ian Arbouw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\zvdsteege\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/rDoeKvkrYxNICy42jlklFPiMbrWyqsVMEp3GqiDZvRkf75TJo9/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -61,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
