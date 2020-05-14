@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Mechanoid.Parser;
+using Mechanoid.Parser.CSV;
+using System;
 
 namespace Parser
 {
@@ -6,7 +8,10 @@ namespace Parser
     {
         static void Main(string[] args)
         {
+
+            
             Console.WriteLine("Hello World!");
         }
     }
+    
 }

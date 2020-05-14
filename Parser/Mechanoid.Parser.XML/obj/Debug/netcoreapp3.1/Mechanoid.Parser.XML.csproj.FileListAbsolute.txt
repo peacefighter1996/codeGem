@@ -1,0 +1,9 @@
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\bin\Debug\netcoreapp3.1\Mechanoid.Parser.XML.deps.json
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\bin\Debug\netcoreapp3.1\Mechanoid.Parser.XML.dll
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\bin\Debug\netcoreapp3.1\Mechanoid.Parser.XML.pdb
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\obj\Debug\netcoreapp3.1\Mechanoid.Parser.XML.csprojAssemblyReference.cache
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\obj\Debug\netcoreapp3.1\Mechanoid.Parser.XML.csproj.CoreCompileInputs.cache
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\obj\Debug\netcoreapp3.1\Mechanoid.Parser.XML.AssemblyInfoInputs.cache
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\obj\Debug\netcoreapp3.1\Mechanoid.Parser.XML.AssemblyInfo.cs
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\obj\Debug\netcoreapp3.1\Mechanoid.Parser.XML.dll
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.XML\obj\Debug\netcoreapp3.1\Mechanoid.Parser.XML.pdb

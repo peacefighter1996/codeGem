@@ -1,0 +1,4 @@
+D:\Source\Repos\codeGem\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csprojAssemblyReference.cache
+D:\Source\Repos\codeGem\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.csproj.CoreCompileInputs.cache
+D:\Source\Repos\codeGem\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfoInputs.cache
+D:\Source\Repos\codeGem\Parser\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfo.cs

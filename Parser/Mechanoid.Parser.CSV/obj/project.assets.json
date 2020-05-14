@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Mechanoid.Parser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Mechanoid.Parser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mechanoid.Parser.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Mechanoid.Parser/1.0.0": {
+      "type": "project",
+      "path": "../Mechanoid.Parser/Mechanoid.Parser.csproj",
+      "msbuildProject": "../Mechanoid.Parser/Mechanoid.Parser.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Mechanoid.Parser >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ian Arbouw\\.nuget\\packages\\": {},
@@ -42,7 +61,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser\\Mechanoid.Parser.csproj": {
+              "projectPath": "D:\\Source\\Repos\\codeGem\\Parser\\Mechanoid.Parser\\Mechanoid.Parser.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

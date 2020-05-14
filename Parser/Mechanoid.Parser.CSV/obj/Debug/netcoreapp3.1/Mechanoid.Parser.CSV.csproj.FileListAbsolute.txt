@@ -1,0 +1,12 @@
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\bin\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.deps.json
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\bin\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.dll
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\bin\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.pdb
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\bin\Debug\netcoreapp3.1\Mechanoid.Parser.dll
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\bin\Debug\netcoreapp3.1\Mechanoid.Parser.pdb
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.csprojAssemblyReference.cache
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.csproj.CoreCompileInputs.cache
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.AssemblyInfoInputs.cache
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.AssemblyInfo.cs
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.csproj.CopyComplete
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.dll
+D:\Source\Repos\codeGem\Parser\Mechanoid.Parser.CSV\obj\Debug\netcoreapp3.1\Mechanoid.Parser.CSV.pdb

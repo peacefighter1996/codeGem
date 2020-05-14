@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mechanoid.Parser.CSV/1.0.0": {
+        "dependencies": {
+          "Mechanoid.Parser": "1.0.0"
+        },
+        "runtime": {
+          "Mechanoid.Parser.CSV.dll": {}
+        }
+      },
+      "Mechanoid.Parser/1.0.0": {
+        "runtime": {
+          "Mechanoid.Parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mechanoid.Parser.CSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mechanoid.Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
