@@ -15,20 +15,6 @@ namespace Mechanoid.Parser.CSV.Tests
         }
 
         [TestMethod()]
-        public void ParseDocumentTest()
-        {
-            
-
-        }
-
-        [TestMethod()]
-        public void ParserStringTest()
-        {
-
-            Assert.Fail();
-        }
-
-        [TestMethod()]
         public void ParseMultiObjectDocumentTest()
         {
             var parser = new CsvParser<TestDataObject>(true);
